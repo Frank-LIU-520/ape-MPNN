@@ -19,3 +19,5 @@ To cite this algorithm, please reference: Liu, Ziteng, et al. "Transferable mult
 2 put molecule sdf files in the .\data-bin\raw\dev, with its sdf file name and all 12 properties saved in .\data-bin\raw\dev_target.csv in templet.
 
 3 run the code, python DeepMoleNet.py
+
+Please contact njuziteng@hotmail.com if you have any questions.
