@@ -3,6 +3,7 @@
 Transferable Multi-level Attention Neural Network for Accurate Prediction of Quantum Chemistry Properties via Multi-task Learning
 
 Champion solution of Coalab Alchemy Contest
+https://alchemy.tencent.com/
 
 DeepMoleNet is a deep learning package for molecular properties prediction. This code is developed by Ziteng Liu@Nanjing Univerisity and Liqiang Lin@Nanjing University during Colab Alchemy Contest https://alchemy.tencent.com/. We setup one team called "NJU_Chem" and won the champion in the competition. We also released document to disclose our thoughts during different stages after winning. Former DeepMoleNet was called ape-MPNN in the contest. Please see https://alchemy.tencent.com/data/2019/1st_solution-ape-MPNN_NJU_Chem.pdf for detail. 
 
