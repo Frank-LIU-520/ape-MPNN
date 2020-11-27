@@ -20,4 +20,6 @@ To cite this algorithm, please reference: Liu, Ziteng, et al. "Transferable mult
 
 3 run the code, python DeepMoleNet.py
 
-Please contact njuziteng@hotmail.com if you have any questions.
+Please go to the DeepMoleNet homepage, register, and download the code before usage. http://106.15.196.160:5659/
+
+Contact njuziteng@hotmail.com if you have any questions.
