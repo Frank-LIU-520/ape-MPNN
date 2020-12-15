@@ -14,7 +14,7 @@ The ideas came from the discussion with our friends (starcraft Ⅱ lovers) at th
 
 To cite this algorithm, please reference: Liu, Ziteng, et al. "Transferable multi-level attention neural network for accurate prediction of quantum chemistry properties via multi-task learning." ChemRxiv 12588170 (2020): v1.
 
-Please go to the DeepMoleNet homepage, register, and download the code before usage in the following steps. http://106.15.196.160:5659/
+Please go to the DeepMoleNet homepage, register, and download the code before usage in the following steps. 
 
 1 unzip the zip file and make sure all packagement in the requirement.txt file are installed;
 
