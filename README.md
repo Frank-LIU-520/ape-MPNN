@@ -1,4 +1,4 @@
-# DeepMoleNet
+# ape-MPNN(DeepMoleNet)
 
 Transferable Multi-level Attention Neural Network for Accurate Prediction of Quantum Chemistry Properties via Multi-task Learning
 
