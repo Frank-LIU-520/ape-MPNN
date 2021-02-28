@@ -1,6 +1,7 @@
 # ape-MPNN(DeepMoleNet)
 
-Transferable Multi-level Attention Neural Network for Accurate Prediction of Quantum Chemistry Properties via Multi-task Learning
+Transferable Multilevel Attention Neural Network for Accurate Prediction of Quantum Chemistry Properties via Multitask Learning
+https://pubs.acs.org/doi/10.1021/acs.jcim.0c01224#
 
 Champion solution of Codalab Alchemy Contest 
 <br>https://alchemy.tencent.com/  
